@@ -1,0 +1,20 @@
+/* Cards */
+
+section img {
+  height: 400px;
+  width: 800px;
+  max-width: 70%;
+}
+
+section p {
+  margin: 20px 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+section h2 {
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px 0;
+  font-weight: bold;
+}
